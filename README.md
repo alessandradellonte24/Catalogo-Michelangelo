@@ -1,2 +1,2 @@
-# Catalogo di una selezione delle opere di Michelangelo
-Materiale per la demo di un sito che esplora un catalogo di una selezione delle opere di Michelangelo  
+# Catalogo sulle opere di Michelangelo
+Materiale per la demo di un sito che esplora un catalogo sulle opere di Michelangelo  
